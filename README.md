@@ -1,16 +1,9 @@
-Домашнее задание к занятию 14 «Средство визуализации Grafana»
+# Домашнее задание к занятию 15 «Система сбора логов Elastic Stack»
 
-1.
+### Задание 1
 
-[img](/img/prometheus.jpg)
+![img](/img/docker.jpg)
 
-2.
+### Задание 2
 
-[img](/img/dashboard.jpg)
-
-3.
-
-[img](/img/alert.jpg)
-
-
-[json](/dashboard.json)
+![img](/img/logstash.jpg)
